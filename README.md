@@ -1,18 +1,50 @@
+# Simple Calculator Application
+
+## Features
+
+- Addition: Perform addition 
+- Subtraction: Perform subtraction 
+- Multiplication: Perform multiplication 
+- Division: Perform division 
+- Clear Button: Reset the calculator
+
 ## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+### Prerequisites
 
-## Folder Structure
+- Java Development Kit (JDK) installed on your machine.
+- An integrated development environment (IDE) like Eclipse or IntelliJ IDEA is recommended but not mandatory.
 
-The workspace contains two folders by default, where:
+### Running the Application
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+1. Clone this repository to your local machine:
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+```shell
+git clone https://github.com/Spark8961/Calculator.git
+```
+2. Open the project in your Java IDE.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+3. Compile and run the CalculatorApp.java file.
 
-## Dependency Management
+4. The calculator application window should appear, allowing you to perform calculations.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Usage
+
+- Like any other calculator that exists.
+
+## Built With
+
+- Java Swing (For the GUI).
+- Some hard work.
+
+## Author
+
+- Spark8961
+
+## Licence
+
+- Licenced under the MIT licence.
+
+## Acknowledgements
+
+- The Java Swing documentation.
