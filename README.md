@@ -24,7 +24,7 @@ git clone https://github.com/Spark8961/Calculator.git
 ```
 2. Open the project in your Java IDE.
 
-3. Compile and run the CalculatorApp.java file.
+3. Compile and run the Main.java file.
 
 4. The calculator application window should appear, allowing you to perform calculations.
 
